@@ -1,0 +1,31 @@
+{
+  "name": "fiware-pep-steelskin-accounting",
+  "version": "1.0.0",
+  "description": "",
+  "author": "UPM",
+  "license": "AGPL-3.0",
+  "keywords": [
+    "proxy",
+    "accounting",
+    "fiware"
+  ],
+  "dependencies": {
+    "async": "0.9.0",
+    "joi": "10.2.2",
+    "logops": "1.0.0",
+    "mysql": "2.13.0",
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FIWARE-TMForum/fiware-pep-steelskin-accounting"
+  },
+  "contributors": [
+    {
+      "name": "Francisco de la Vega",
+      "email": "fdelavega@conwet.com"
+    }
+  ],
+  "scripts": {},
+  "devDependencies": {}
+}
