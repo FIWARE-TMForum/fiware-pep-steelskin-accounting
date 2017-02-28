@@ -10,6 +10,13 @@ config.accounting = {
         user: 'root',
         passwd: 'root',
         database: 'pep'
+    },
+
+    usageAPI: {
+        ssl: false,
+        host: 'localhost',
+        port: '8000',
+        path: '/DSUsageManagement/api/usageManagement/v2'
     }
 };
 
